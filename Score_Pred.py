@@ -1,8 +1,6 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
 import matplotlib.pyplot as plt
-from seaborn import heatmap
 import streamlit as st
 import xgboost as xgb
 
